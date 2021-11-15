@@ -38,7 +38,7 @@ Example:
 - npm: 7.6.2
 -->
   
-## Anything else:
+## Anything else
 <!-- 
 Provide us with any additional information that may help to fix the bug:
 - Do you know any possible reasons?
