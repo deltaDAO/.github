@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+name: Security Bug Bounty
+    url: tech@delta-dao.com
+    about: Please report security vulnerabilities here.
